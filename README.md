@@ -1,24 +1,18 @@
-# Firebase Social Login Includes:
-- Facebook 
-- Google
-- Email
-- Phone Number
-- Email Validation
-- Phone number validation
-- Elegant UI
-- Managed by custom created utils for style, Widget, String etc.
+# Firebase Realtime Database(Contact List):
+- Add Cotnact
+- Edit Contact 
+- Deleted Contact.
+- View Contact
 
 # UI
-<img src="https://github.com/Prashant09mca/flutter_firebase_login/blob/master/uidemo.png"/>
+<video width="320" height="660" src="https://github.com/Prashant09mca/flutter_firebase_realtime_database/blob/master/fd.mp4" controls> Sorry, your browser doesn't support HTML5 <code>video</code>, but you can download this video from the </video>
+
 
 # Support library 
-- <a href="https://firebase.google.com/docs/flutter/setup">firebase_auth</a>
-- <a href="https://firebase.google.com/docs/flutter/setup">firebase_core</a>
-- <a href="https://pub.dev/packages/google_sign_in">google_sign_in</a>
+- <a href="https://pub.dev/packages/firebase_database">firebase_database</a>
+- <a href="https://pub.dev/packages/material_segmented_control">material_segmented_control</a>
+- <a href="https://pub.dev/packages/avataaar_image">avataaar_image</a>
 - <a href="https://pub.dev/packages/toast">toast</a>
-- <a href="https://pub.dev/packages/flutter_facebook_login">flutter_facebook_login</a>
-- <a href="https://pub.dev/packages/flutter_country_picker">flutter_country_picker</a>
-- <a href="https://pub.dev/packages/countdown_flutter">countdown_flutter</a>
 
 # Requirements
 Any Operating System (ie. MacOS X, Linux, Windows)<p>
